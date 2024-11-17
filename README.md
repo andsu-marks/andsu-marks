@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Node.js - React - TypeScript - AWS](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BF00&center=true&vCenter=true&repeat=false&width=435&lines=Software%20Developer)](https://git.io/typing-svg)
+[![Node.js - React - TypeScript - AWS](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BF00&center=true&vCenter=true&repeat=false&width=435&lines=Fullstack%20Developer)](https://git.io/typing-svg)
 [![Node.js - React - TypeScript - AWS](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00BF00&center=true&vCenter=true&repeat=false&width=435&lines=Node.js%20-%20TypeScript%20)](https://git.io/typing-svg)
 <hr />
 
@@ -17,7 +17,7 @@
 [![Tecnologies](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00BF00&center=true&vCenter=true&repeat=false&width=435&lines=Technologies!)](https://git.io/typing-svg)
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=javascript,nodejs,express,linux,git,r,sqlite,postman,typescript,prisma,postgres,jest,github,typeorm" />
+<img src="https://skillicons.dev/icons?i=javascript,nodejs,typescript,react,next,nest,php,laravel,html,css,tailwind,bootstrap,express,prisma,eloquent,mysql,postgresql,sqlite,jest,git,github,docker,postman,r" />
 </div>
 
 </div>
